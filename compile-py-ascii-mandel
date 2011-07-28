@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python py-ascii-mandelbrot.py
+7z a py-ascii-mandelrender.7z py-ascii-mandelrender > /dev/null
+rm py-ascii-mandelrender
