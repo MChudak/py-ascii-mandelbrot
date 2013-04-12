@@ -1,5 +1,3 @@
 [this program serves mostly my own training purposes, to learn python & git]
 
 Very simple mandelbrot fractal generator, written in python. That's my first program in this language, and first uploaded to git :)
-
-compile-py-ascii-mandel is a bash script that compiles code using python and 7zips the image - if you don't have 7z, don't use it!
